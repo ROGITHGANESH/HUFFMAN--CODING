@@ -28,7 +28,7 @@ print the characters and its huffmancode.
 # expt-11-huffman coding
 
 # Step 1: Get the input string
-input_string = "bhumireddy lakshmi vardhan reddy"  # Example input string
+input_string = "ROGITH GANESH"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
@@ -72,7 +72,11 @@ for char, code in huffman_codes.items():
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![image](https://github.com/user-attachments/assets/963e6d5b-b1f3-450c-b13d-ef8137ea3848)
+ROGITH GANESH
+![Screenshot 2025-05-17 060708](https://github.com/user-attachments/assets/f0812fee-adad-422c-9481-f3906edbd3a7)
+AGGRESSIVENESS
+![image](https://github.com/user-attachments/assets/3041c548-d9b3-4062-aa73-829baffbd8a2)
+
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
